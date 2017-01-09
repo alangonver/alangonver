@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <header>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-widht,user-scalable=no">
+    <title>Hoja de Vida Digital</title>
+    <img src="images/Logo.png" alt="CV" title="CV" height="260" width="350"/>
+    <h1>Curriculum Vitae</h1>
+  </header>
+  <body>
+    <h2>Alan Gonzalez Vergara</h2>
+    <ul>
+      <li><a href="inditex.html">Inicio</a></li>
+      <li><a href="html/educacion.html">Educación</a></li>
+      <li><a href="html/experiencia.html">Experiencia</a></li>
+    </ul>
+      <h2>Información Personal</h2>
+      <img src="images/Infopersonal.jpg" alt="Foto" title="Foto" height="360" width="350"/>
+    <ul>
+      <li><strong>Nombre:</strong> Alan </li>
+      <li><strong>Apellido: </strong>Gonzalez Vergara</li>
+      <li><strong>Fecha de nacimiento: </strong> 15 de agosto de 1990</li>
+      <li><strong>Lugar de nacimiento: </strong> México, D.F.</li>
+      <li><strong>Edad: </strong> 26 años</li>
+    </ul>
+    <h2>Información de perfil</h2>
+      <ul>
+        <li><strong>Perfil:</strong> <p> Habilidad para adaptarme a cualquier situación que se pueda presentar, facilidad para relacionarme con diferentes tipos de personas, cumplo con mis responsabilidades, proactivo, ordenado, resistencia a los trabajos pesados, me actualizo constantemente con los avances de mi profesión, tengo muchos años de experiencia en mi rama, capacidad de liderazgo, manejo de problemas, domino el uso de internet, amplios conocimientos de programación, amplia experiencia en redes y comunicaciones.</p></li>
+        <li><strong>Idiomas:</strong> Español / Inglés / Frases / Italiano</li>
+      </ul>
+  </body>
+  <footer>
+    <hr>
+    <p>@ Derechos Reservados</p>
+    <ul>
+      <li><strong>Email:</strong> <a href="mailto:alan@hotmail.com">alan@hotmail.com</a></li>
+      <li><strong>Teléfono:</strong> (01) 72-22-22-67-54</li>
+      <li><strong>Dirección:</strong> Calle Serrato, número 43. País: México.</li>
+      <li><strong>Twitter:</strong> @alanxavier</li>
+    </ul>
+  </footer>
+  Copyright (c) 2016 Copyright Holder All Rights Reserved
+</html>
